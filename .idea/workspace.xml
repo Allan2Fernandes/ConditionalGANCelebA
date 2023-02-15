@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c5ce403-509b-43f2-97ba-cefb12a255b9" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/GAN_Network.py" beforeDir="false" afterPath="$PROJECT_DIR$/GAN_Network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAN_tester.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GAN_tester.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=0_Step=LastStep/keras_metadata.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=0_Step=LastStep/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=0_Step=LastStep/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=0_Step=LastStep/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=1_Step=LastStep/keras_metadata.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=1_Step=LastStep/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=1_Step=LastStep/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=1_Step=LastStep/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=2_Step=LastStep/keras_metadata.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=2_Step=LastStep/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=2_Step=LastStep/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=2_Step=LastStep/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=3_Step=LastStep/keras_metadata.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=3_Step=LastStep/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=3_Step=LastStep/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Discriminator_Epoch=3_Step=LastStep/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=0_Step=LastStep/keras_metadata.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=0_Step=LastStep/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=0_Step=LastStep/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=0_Step=LastStep/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=1_Step=LastStep/keras_metadata.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=1_Step=LastStep/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=1_Step=LastStep/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=1_Step=LastStep/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=2_Step=LastStep/keras_metadata.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=2_Step=LastStep/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=2_Step=LastStep/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=2_Step=LastStep/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=3_Step=LastStep/keras_metadata.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=3_Step=LastStep/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=3_Step=LastStep/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Generator_Epoch=3_Step=LastStep/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1a561dfb-f8a5-4288-b8bc-c3c253628ae9" />
+        <option name="url" value="https://github.com/Allan2Fernandes/ConditionalGANCelebs" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LNEid7lJ7rGOTF5TmEyqTdmvK2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ConditionalGANCelebs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c5ce403-509b-43f2-97ba-cefb12a255b9" name="Changes" comment="" />
+      <created>1675703267225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675703267225</updated>
+      <workItem from="1675703268602" duration="5058000" />
+      <workItem from="1675713637107" duration="608000" />
+      <workItem from="1675786415446" duration="2570000" />
+      <workItem from="1675793276038" duration="5378000" />
+      <workItem from="1675803622755" duration="609000" />
+      <workItem from="1675840033567" duration="5203000" />
+      <workItem from="1675845524520" duration="2386000" />
+      <workItem from="1675848204578" duration="29422000" />
+      <workItem from="1675882850490" duration="14000" />
+      <workItem from="1675883167394" duration="199000" />
+      <workItem from="1675884088337" duration="3773000" />
+      <workItem from="1675936429322" duration="1577000" />
+      <workItem from="1675944516215" duration="18000" />
+      <workItem from="1675946103064" duration="222000" />
+      <workItem from="1676016372156" duration="717000" />
+      <workItem from="1676068381560" duration="290000" />
+      <workItem from="1676105559161" duration="1389000" />
+      <workItem from="1676126794634" duration="663000" />
+      <workItem from="1676128098752" duration="5286000" />
+      <workItem from="1676138009305" duration="32000" />
+      <workItem from="1676221076796" duration="45000" />
+      <workItem from="1676450687200" duration="7001000" />
+      <workItem from="1676459322430" duration="3000" />
+      <workItem from="1676474141721" duration="530000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1675938567406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675938567406</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ConditionalGANCelebs$main.coverage" NAME="main Coverage Results" MODIFIED="1676451414598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
